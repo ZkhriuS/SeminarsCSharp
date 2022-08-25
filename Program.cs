@@ -5,4 +5,3 @@ else Console.WriteLine($"max = {second}, min ={first}");
 }else{
     Console.WriteLine("Incorrect input");
 }
-

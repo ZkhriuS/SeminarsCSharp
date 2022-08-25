@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿/*
+Задача 2 находится в ветке task2
+Задача 4 находится в ветке task4
+Задача 6 находится в ветке task6
+Задача 8 находится в ветке task8
+*/

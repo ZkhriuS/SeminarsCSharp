@@ -1,0 +1,15 @@
+E:\КУРСЫ\GEEKBRAINS. РАЗРАБОТЧИК\ЗЯП\Hometask\hometask2\bin\Debug\net6.0\Hometask.exe
+E:\КУРСЫ\GEEKBRAINS. РАЗРАБОТЧИК\ЗЯП\Hometask\hometask2\bin\Debug\net6.0\Hometask.deps.json
+E:\КУРСЫ\GEEKBRAINS. РАЗРАБОТЧИК\ЗЯП\Hometask\hometask2\bin\Debug\net6.0\Hometask.runtimeconfig.json
+E:\КУРСЫ\GEEKBRAINS. РАЗРАБОТЧИК\ЗЯП\Hometask\hometask2\bin\Debug\net6.0\Hometask.dll
+E:\КУРСЫ\GEEKBRAINS. РАЗРАБОТЧИК\ЗЯП\Hometask\hometask2\bin\Debug\net6.0\Hometask.pdb
+E:\КУРСЫ\GEEKBRAINS. РАЗРАБОТЧИК\ЗЯП\Hometask\hometask2\obj\Debug\net6.0\Hometask.csproj.AssemblyReference.cache
+E:\КУРСЫ\GEEKBRAINS. РАЗРАБОТЧИК\ЗЯП\Hometask\hometask2\obj\Debug\net6.0\Hometask.GeneratedMSBuildEditorConfig.editorconfig
+E:\КУРСЫ\GEEKBRAINS. РАЗРАБОТЧИК\ЗЯП\Hometask\hometask2\obj\Debug\net6.0\Hometask.AssemblyInfoInputs.cache
+E:\КУРСЫ\GEEKBRAINS. РАЗРАБОТЧИК\ЗЯП\Hometask\hometask2\obj\Debug\net6.0\Hometask.AssemblyInfo.cs
+E:\КУРСЫ\GEEKBRAINS. РАЗРАБОТЧИК\ЗЯП\Hometask\hometask2\obj\Debug\net6.0\Hometask.csproj.CoreCompileInputs.cache
+E:\КУРСЫ\GEEKBRAINS. РАЗРАБОТЧИК\ЗЯП\Hometask\hometask2\obj\Debug\net6.0\Hometask.dll
+E:\КУРСЫ\GEEKBRAINS. РАЗРАБОТЧИК\ЗЯП\Hometask\hometask2\obj\Debug\net6.0\refint\Hometask.dll
+E:\КУРСЫ\GEEKBRAINS. РАЗРАБОТЧИК\ЗЯП\Hometask\hometask2\obj\Debug\net6.0\Hometask.pdb
+E:\КУРСЫ\GEEKBRAINS. РАЗРАБОТЧИК\ЗЯП\Hometask\hometask2\obj\Debug\net6.0\Hometask.genruntimeconfig.cache
+E:\КУРСЫ\GEEKBRAINS. РАЗРАБОТЧИК\ЗЯП\Hometask\hometask2\obj\Debug\net6.0\ref\Hometask.dll
